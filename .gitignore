@@ -1,0 +1,21 @@
+# Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+venv/
+env/
+
+# Models and artifacts
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
